@@ -17,7 +17,6 @@ Index.html
 </body>
 </html>
 
-
   sketch.js
   
 let masina, roti = [];
