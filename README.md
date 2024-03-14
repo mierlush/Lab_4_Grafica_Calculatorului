@@ -1,7 +1,8 @@
 # Lab_4_Grafica_Calculatorului
 Codul p5.js:
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Index.html
+Index.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,6 +19,7 @@ Codul p5.js:
 
 
   sketch.js
+  
 let masina, roti = [];
 let angleX = 0;
 let angleY = 0;
@@ -68,6 +70,7 @@ function mouseDragged() {
 ]
 
 Style.css
+
 canvas {
   display: block;
 }
