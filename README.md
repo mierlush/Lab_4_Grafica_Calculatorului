@@ -1,7 +1,7 @@
 # Lab_4_Grafica_Calculatorului
 Codul p5.js:
 
-Index.html
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,10 +17,7 @@ Index.html
 </html>
 
 
-
-
-
-sketch.js
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  sketch.js
 let masina, roti = [];
 let angleX = 0;
 let angleY = 0;
@@ -69,9 +66,7 @@ function mouseDragged() {
   angleY += (pmouseX - mouseX) * 0.01;
   angleX -= (pmouseY - mouseY) * 0.01;
 }
-
-
-Style.css
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Style.css
 canvas {
   display: block;
 }
